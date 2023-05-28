@@ -38,9 +38,9 @@ apple = Apple()
 apples.add(apple)
 
 
-#xd
-my_name = "Jakub"
-my_last_name = "Szypuła"
+
+
+
 
 is_game_running = True
 
